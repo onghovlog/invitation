@@ -11,7 +11,7 @@ let checkLoaded = () => {
 // Image Array
 let letterArray = [
   "thu_moi_01_thay_Tran_Duy_Phong.jpg",
-  "thu_moi_02_thay_Tran_Van_Nam.png",
+  "thu_moi_02_thay_Tran_Van_Nam.jpg",
   "thu_moi_03_thay_Vu_Chi_Thanh.jpg",
   "thu_moi_04_thay_Nguyen_Thanh_Nam.jpg",
   "thu_moi_05_thay_Hoang_Van_Loi.jpg",
