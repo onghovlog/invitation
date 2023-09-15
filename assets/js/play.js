@@ -10,23 +10,29 @@ let checkLoaded = () => {
 
 // Image Array
 let letterArray = [
-  "thu_moi_01_thay_Tran_Duy_Phong.jpg",
-  "thu_moi_02_thay_Tran_Van_Nam.jpg",
-  "thu_moi_03_thay_Vu_Chi_Thanh.jpg",
-  "thu_moi_04_thay_Nguyen_Thanh_Nam.jpg",
-  "thu_moi_05_thay_Hoang_Van_Loi.jpg",
-  "thu_moi_06_chi_Kim_Phuong.jpg",
+  "thu_moi_01_thay_Vu_Chi_Thanh.jpg",
+  "thu_moi_02_thay_Hoang_Van_Loi.jpg",
+  "thu_moi_03_thay_Tran_Van_Nam.jpg",
+  "thu_moi_04_Co_Nguyen_Thi_Kim_Phuong.jpg",
+  "thu_moi_05_thay_Nguyen_Thanh_Nam.jpg",
+  "thu_moi_06_thay_Dinh_An.jpg",
   "thu_moi_07_thay_Tran_Ly_Anh_Tuan.jpg",
-  "thu_moi_08_thay_Phuoc_Cuong.jpg",
+  "thu_moi_08_Thay_Le_Quoc_Nam.jpg",
   "thu_moi_09_co_Thu_Hang.jpg",
   "thu_moi_10_Thay_Tran_Minh_Hung.jpg",
   "thu_moi_11_Thay_Nguyen_Khanh.jpg",
-  "thu_moi_12_thay_Dinh_An.jpg",
-  "thu_moi_13_thay_Than_Hoang_Loc.jpg",
-  "thu_moi_14_thay_Hoang_Anh.jpg",
-  "thu_moi_15_co_Tran_Thi_Huong.jpg",
-  "thu_moi_16_Chi_Huynh_Thanh.jpg",
-  "thu_moi_17_chi_Y_Van.jpg",
+  "thu_moi_12_thay_Phuoc_Cuong.jpg",
+  "thu_moi_13_Co_Tran_Thi_Hoang_Phuong.jpg",
+  "thu_moi_14_Thay_Pham_Tuan_Anh.jpg",
+  "thu_moi_15_Thay_Nguyen-Duc_Anh_Tuan.jpg",
+  "thu_moi_16_Co_Vu_Thanh_Huyen_DN.jpg",
+  "thu_moi_17_Thay_Huynh_Thanh_Hoang_CT.jpg",
+  "thu_moi_18_Thay_Tran_Quang_Sang.jpg",
+  "thu_moi_19_thay_Tran_Duy_Phong.jpg",
+  "thu_moi_20_Co_Tran_Thi_Huong.jpg",
+  "thu_moi_21_Thay_Than_Hoang_Loc.jpg",
+  "thu_moi_23_Thay_Hoang_Anh.jpg",
+  "thu_moi_23_Thay_HoangHuy.jpg"
 ];
 
 let currentURL = window.location.href;
