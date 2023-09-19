@@ -32,7 +32,10 @@ let letterArray = [
   "thu_moi_20_Co_Tran_Thi_Huong.jpg",
   "thu_moi_21_Thay_Than_Hoang_Loc.jpg",
   "thu_moi_23_Thay_Hoang_Anh.jpg",
-  "thu_moi_23_Thay_HoangHuy.jpg"
+  "thu_moi_23_Thay_HoangHuy.jpg",
+  "thu_moi_DN_Anh_ChristianNguyen.jpg",
+  "thu_moi_DN_Anh_HoangNam.jpg",
+  "thu_moi_DN_Anh_Nhu_Y"
 ];
 
 let currentURL = window.location.href;
