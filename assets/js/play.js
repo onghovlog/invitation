@@ -53,7 +53,8 @@ let letterArray = [
     "thu_moi_dot4_41_NgocSuong.jpg",
     "thu_moi_dot4_42_LyHuynhNhu.jpg",
     "thu_moi_dot4_43_DoanNghiem.jpg",
-    "thu_moi_dot4_44_HoangHuy.jpg"
+    "thu_moi_dot4_44_HoangHuy.jpg",
+    "thu_moi_dot4_45_PhuongQuynh.jpg"
 ];
 
 let currentURL = window.location.href;
