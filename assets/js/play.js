@@ -43,7 +43,17 @@ let letterArray = [
     "thu_moi_31_QuyThayCo.jpg",
     "thu_moi_32_TrungVo.jpg",
     "thu_moi_33_YVan.jpg",
-    "thu_moi_34_HoangThao.jpg"
+    "thu_moi_34_HoangThao.jpg",
+    "thu_moi_dot4_35_HongTham.jpg",
+    "thu_moi_dot4_36_ThuyTu.jpg",
+    "thu_moi_dot4_37_QuynhAnh.jpg",
+    "thu_moi_dot4_38_AnhTuan.jpg",
+    "thu_moi_dot4_39_NguyenVanNga.jpg",
+    "thu_moi_dot4_40_HuuHuong.jpg",
+    "thu_moi_dot4_41_NgocSuong.jpg",
+    "thu_moi_dot4_42_LyHuynhNhu.jpg",
+    "thu_moi_dot4_43_DoanNghiem.jpg",
+    "thu_moi_dot4_44_HoangHuy.jpg"
 ];
 
 let currentURL = window.location.href;
